@@ -1,4 +1,4 @@
-class Dog{
+class Dog extends Animal{
     public void eat(){
         System.out.print("Dogs love to eat bones ");
     }
